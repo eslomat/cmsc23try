@@ -12,7 +12,7 @@ email: examplemonitor@gmail.com <br/>
 pass: 123456 <br/>
 
 ## Notes
-1. I suggest gumamit ng Navigator.popUntil() kasi sa login, ang mangyayari kasi i: <br/>
+1. I suggest gumamit ng Navigator.popUntil() kasi sa login, ang mangyayari kasi is: <br/>
         **base:** Homepage(that shows Login screen) <br/>
         **push:** ModalToSignUp(that shows the SignUpAs screen) <br/>
         **push:** SignUp(that shows the SignUp screen) <br/>
