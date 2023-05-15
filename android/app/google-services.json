@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "768569565450",
+    "project_id": "cmsc23-finalproject-g5",
+    "storage_bucket": "cmsc23-finalproject-g5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768569565450:android:b155c5ce238ad2e4909af3",
+        "android_client_info": {
+          "package_name": "com.example.health_monitoring_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768569565450-c7h3v8t53u1o5d80lukap65aci9ithqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5zUK4WHTqXLTJYCcshSXvktqxWuR_ti4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768569565450-c7h3v8t53u1o5d80lukap65aci9ithqn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768569565450-2anogjoh4no03rokhrhjl2mf0abiqif7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthMonitoringApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
