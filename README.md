@@ -1,14 +1,13 @@
 # health_monitoring_app
 
 ## Valid Emails and Password
-
 email: exampleuser@gmail.com
 pass: 123456
 
-exampleadmin@gmail.com
+email: exampleadmin@gmail.com
 pass: 123456
 
-examplemonitor@gmail.com
+email: examplemonitor@gmail.com
 pass: 123456
 
 ## Notes
