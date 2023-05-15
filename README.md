@@ -22,4 +22,4 @@ pass: 123456
     A. So null lang yung iba kung di applicable
     B. And maaari pang madagdagan yung attributes non depending sa functionalities natin
 
-3. Lastly, di pa final yung design, but ganiyan yung idea.
+3. Lastly, di pa final yung design, but ganiyan yung idea ^^.
