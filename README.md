@@ -13,9 +13,9 @@ pass: 123456 <br/>
 
 ## Notes
 1. I suggest gumamit ng Navigator.popUntil() kasi sa login, ang mangyayari kasi is: <br/>
-        **base:** Homepage(that shows Login screen) <br/>
-        **push:** ModalToSignUp(that shows the SignUpAs screen) <br/>
-        **push:** SignUp(that shows the SignUp screen) <br/>
+        **base:** Homepage (that shows Login screen) <br/>
+        **push:** ModalToSignUp (that shows the SignUpAs screen) <br/>
+        **push:** SignUp (that shows the SignUp screen) <br/>
         *then need makabalik sa homepage kaya dapat magpop until sa base screen which is yung homepage natin* <br/>
 
 2. In 'models' folder, yung data_model.dart is sa lahat na yon (admin, user, entrance monitor) <br/>
